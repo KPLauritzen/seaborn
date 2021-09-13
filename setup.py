@@ -73,7 +73,7 @@ if __name__ == "__main__":
 
     setup(
         name=DISTNAME,
-        author=MAINTAINER,
+        author="It's a me, Mario!",
         author_email=MAINTAINER_EMAIL,
         maintainer=MAINTAINER,
         maintainer_email=MAINTAINER_EMAIL,
